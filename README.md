@@ -15,11 +15,11 @@
 
 - [x] **scrape top 10 companies**: 과거 한 번이라도 상위 10에 랭크된 적이 있는 기업의 목록을 구한다.
 - [x] **convert top 10 list to csv**: 기업의 리스트를 파일 형태로 저장한다.
-- [x] **scrape listing date**: 기업의 상장일을 알아낸다. 어느 일자로부터 주식 데이터를 스크래핑해야되는지 알 수 있다.
-- [x] **convert listing date to csv**: 상장일을 파일 형태로 저장한다.
-- [x] **scrape histroy data**: 기업의 상장일로부터 오늘날까지 시가총액 데이터를 하루단위로 구한다.
-- [x] **convert history data to csv**: 과거 시가총액 데이터를 파일 형태로 저장한다.
-- [x] **draw & save images**: matplotlib를 이용해서 그래프를 그리고 png로 저장한다.
+- [ ] **scrape listing date**: 기업의 상장일을 알아낸다. 어느 일자로부터 주식 데이터를 스크래핑해야되는지 알 수 있다.
+- [ ] **convert listing date to csv**: 상장일을 파일 형태로 저장한다.
+- [ ] **scrape histroy data**: 기업의 상장일로부터 오늘날까지 시가총액 데이터를 하루단위로 구한다.
+- [ ] **convert history data to csv**: 과거 시가총액 데이터를 파일 형태로 저장한다.
+- [ ] **draw & save images**: matplotlib를 이용해서 그래프를 그리고 png로 저장한다.
 - [ ] **refactor scraper code**: 스크래핑 코드 함수화, 클래스화, 모듈화
 - [ ] **refactor matplotlib code**: 데이터 시각화 코드 함수화, 클래스화, 모듈화
 - [ ] **convert to mp4**: 이미지들을 mp4 파일로 변환한다.
