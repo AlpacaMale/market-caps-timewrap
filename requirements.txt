@@ -4,3 +4,4 @@ tqdm
 dateutil
 matplotlib
 numpy
+opencv-python
