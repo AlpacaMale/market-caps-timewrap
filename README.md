@@ -80,3 +80,7 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+
+## 실행 영상
+
+[유투브](https://youtu.be/6wAmTDixp6E)
